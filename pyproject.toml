@@ -1,0 +1,10 @@
+[project]
+name = "cookbook"
+version = "0.1.0"
+description = "A cookbook"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+ "cogapp>=3.6.0",
+ "python-frontmatter>=1.1.0",
+]
